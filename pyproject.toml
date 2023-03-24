@@ -11,6 +11,9 @@ python = "^3.9"
 click = "^8.1.3"
 loguru = "^0.6.0"
 matplotlib = "^3.7.1"
+influxdb-client = "^1.36.1"
+tqdm = "^4.65.0"
+watchdog = "^3.0.0"
 
 
 [build-system]
